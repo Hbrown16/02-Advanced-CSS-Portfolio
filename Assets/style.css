@@ -113,7 +113,7 @@ main{
 }
 
 .page-wrapper {
-    background-image: url("/Users/haley/projects/02 Advanced CSS: Portfolio HW/Assets/Images/about-me.jpeg");
+    background-image: url("https://github.com/Hbrown16/02-Advanced-CSS-Portfolio/blob/main/Assets/Images/about-me.jpeg?raw=true");
     background-repeat: no-repeat;
     background-size: 150px 250px;
     max-width: 88%;
@@ -156,7 +156,7 @@ main{
 
 .flex-item {
     border: 5px solid var(--secondary);
-    background-image: url("/Users/haley/projects/02 Advanced CSS: Portfolio HW/02-Advanced-CSS-Portfolio/Assets/Images/Screen Shot 2021-05-07 at 1.32.07 PM.png");
+    background-image: url("https://github.com/Hbrown16/02-Advanced-CSS-Portfolio/blob/main/Assets/Images/Screen%20Shot%202021-05-07%20at%201.32.07%20PM.png?raw=true");
     color: var(--tertiary);
     min-height: 150px;
     max-height: 150px;
