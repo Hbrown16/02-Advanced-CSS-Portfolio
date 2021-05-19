@@ -43,7 +43,7 @@ header {
     justify-content: space-between;
     flex-wrap:wrap;
     align-items: center;
-    background-color: var(--tertiary);+
+    background-color: var(--tertiary);
     box-shadow: 0 5px 35px  rgba(124, 166, 200);
 }
 
