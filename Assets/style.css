@@ -156,7 +156,7 @@ main{
 
 .flex-item {
     border: 5px solid var(--secondary);
-    background-image: url("/Users/haley/projects/02 Advanced CSS: Portfolio HW/Assets/Images/Screen Shot 2021-05-07 at 1.32.07 PM.png");
+    background-image: url("/Users/haley/projects/02 Advanced CSS: Portfolio HW/02-Advanced-CSS-Portfolio/Assets/Images/Screen Shot 2021-05-07 at 1.32.07 PM.png");
     color: var(--tertiary);
     min-height: 150px;
     max-height: 150px;
@@ -177,7 +177,7 @@ main{
 }
 
 .flex-item:hover{
-    background-color:chartreuse;
+    background-color:none;
 }
 
 .contact address {
