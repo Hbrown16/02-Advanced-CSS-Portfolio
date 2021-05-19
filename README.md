@@ -1,5 +1,5 @@
 # Week 2 Homework
-[Deployed Link]
+[Deployed Link](https://hbrown16.github.io/02-Advanced-CSS-Portfolio/)
 
 ## Assignment Description
 This Homework assignment we had to create our own HTML code and CSS code as well. This assignment was created to help us get used to CSS and Flex in CSS. It was challenging to say the least.
